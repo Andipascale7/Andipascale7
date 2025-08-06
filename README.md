@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
+
 <!--
 **Andipascale7/Andipascale7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
