@@ -1,14 +1,22 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
 
-<!--
-**Andipascale7/Andipascale7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on completing a JavaScript Bootcamp.
+- 🔭 JavaScript Bootcamp graduate
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I speak approximatively 4 languanges.
-😀
+- ⚡ Fun fact: I speak approximately 4 languages
+- 🌱 I'm currently learning full-stack development
+- 💼 STEM graduate & polyglot developer
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andipascale7&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andipascale7&theme=radical)
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andipascale7&layout=compact&theme=radical)
+
+---
+![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
