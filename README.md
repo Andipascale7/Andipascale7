@@ -1,8 +1,4 @@
-## Hi there 👋
-
-
-
-Here are some ideas to get you started:
+## Hi there, I'm Andi👋
 
 - 🔭 JavaScript Bootcamp graduate
 - 😄 Pronouns: She/her
