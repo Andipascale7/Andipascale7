@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning full-stack development
 - 💼 STEM graduate & polyglot developer
 
-## 📊 GitHub Stats
+##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andipascale7&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andipascale7&theme=radical)
