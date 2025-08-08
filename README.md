@@ -1,3 +1,5 @@
+![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
+
 ## Hi there, I'm Andi👋
 
 - 🔭 Full-stack JavaScript Bootcamp graduate
@@ -14,4 +16,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andipascale7&layout=compact&theme=radical)
 
 ---
-![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
+
