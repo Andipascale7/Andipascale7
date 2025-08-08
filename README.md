@@ -1,9 +1,8 @@
 ## Hi there, I'm Andi👋
 
-- 🔭 JavaScript Bootcamp graduate
-- 😄 Pronouns: She/her
+- 🔭 Full-stack JavaScript Bootcamp graduate
 - ⚡ Fun fact: I speak approximately 4 languages
-- 🌱 I'm currently learning full-stack development
+- 🌱 I'm currently learning Pyton
 - 💼 STEM graduate & polyglot developer
 
 ##
