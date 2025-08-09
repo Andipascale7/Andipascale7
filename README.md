@@ -1,29 +1,52 @@
 ![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
 
-# Recent Northcoders bootcamp graduate with unique background managing digital menu systems across multiple brands. Experienced in building accessible, user-centric web applications using React, TypeScript, and modern development practices.
 
-🔧 Technical Skills: React, TypeScript, Node.js, PostgreSQL, TDD with Jest
+🌟 JavaScript Developer | React Specialist | Outdoor Adventure Lover
 
-💼 Real-world Experience: Digital Menu Manager + 2+ years technical support
+Recent Northcoders bootcamp graduate with 2+ years managing digital systems across multiple brands. Passionate about building user-centric web applications and sustainable technology solutions. Avid hiker and flow yoga practitioner who believes in living happier, healthier lives through outdoor adventures.
 
-🌱 Currently: Building full-stack applications, expanding Python skills
+🔥 Currently: Building full-stack applications with React, TypeScript, and Node.js
+
+
+💼 Background: Digital Menu Manager across multiple brands + technical support expertise
+
+
+📚 Learning: Expanding into Vue.js, PHP, and MySQL to complement my JavaScript foundation
+
+
+🎯 Seeking: Junior Developer opportunities with outdoor/lifestyle brands
+
+⚡ Core Skills:
+
+    JavaScript, TypeScript, React, Node.js
+    HTML/CSS, Git, PostgreSQL, MongoDB
+    Test-driven development with Jest
+    Cross-platform mobile development
+
+🌱 Ready to Learn:
+
+    Vue.js, PHP, MySQL, SASS
+    Eager to adapt to new technologies
+    Always expanding technical skillset
+
+🌍 Values:
+
+    Sustainable technology solutions
+    Collaborative development approach
+    Continuous learning mindset
+    Passionate about creating inclusive web experience
+
 
 🎯 Seeking: Junior Frontend Developer opportunities 
 
-Passionate about creating inclusive web experiences and sustainable technology solutions.
+![GitHub Streak](https://streak-stats.demolab.com/?user=Andipascale7&theme=radical)    
 
-##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andipascale7&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andipascale7&theme=radical)
-## 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andipascale7&layout=compact&theme=radical)
 
----
 
 ## 🚀 Featured Projects
 
-### [Giggle - Event Discovery Platform](https://github.com/Andipascale7/giggle-fe)
+### :musical_note:  [Giggle - Event Discovery Platform](https://github.com/Andipascale7/giggle-fe)
 **[See Live Demo on Northcoders ](https://www.northcoders.com/blog/giggle/)** - Featured as exemplary bootcamp project
 
 **[Frontend - React Native App](https://github.com/Andipascale7/giggle-fe)**  
@@ -32,7 +55,9 @@ Built with React Native, TypeScript, and Expo. Cross-platform mobile app with fi
 **[Backend - RESTful API](https://github.com/Andipascale7/giggle-be)**  
 Built with Node.js, Express, and MongoDB. Handles user authentication, event data management, and ticket operations. Comprehensive Jest testing ensures reliable API endpoints.
 
-### [NC News - Reddit-Style News Platform](https://github.com/Andipascale7/nc-news)
+
+
+### :newspaper:[NC News - Reddit-Style News Platform](https://github.com/Andipascale7/nc-news)
 
 **[Frontend - React Web App](https://github.com/Andipascale7/nc-news)**  
 Built with React and JavaScript. Single-page application featuring dynamic article filtering, topic sorting, and real-time commenting. React Router navigation with Axios API integration.
@@ -40,4 +65,17 @@ Built with React and JavaScript. Single-page application featuring dynamic artic
 **[Backend - PostgreSQL API](https://github.com/Andipascale7/Seeding)**  
 Built with Node.js, Express, and PostgreSQL. RESTful API with full CRUD operations for articles, comments, and users. Test-driven development with Jest and robust error handling.
 
-**Currently Building:** Python applications, TypeScript projects, and a portfolio website.
+
+
+🚧**Currently Building:** 
+
+Python applications, TypeScript projects, and a portfolio website.
+
+##
+
+
+## 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andipascale7&show_icons=true&theme=radical)
+
+---
+
