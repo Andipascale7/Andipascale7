@@ -23,37 +23,24 @@ Passionate about creating inclusive web experiences and sustainable technology s
 
 ## 🚀 Featured Projects
 
-### [Giggle App - Event Discovery Platform-group project](https://github.com/Andipascale7/giggle-fe) 
-[Backend API](https://github.com/Andipascale7/giggle-be)**
+### [Giggle App - Full Stack Event Platform](https://github.com/Andipascale7/giggle-fe) | [Backend Repo](https://github.com/Andipascale7/giggle-be)
+**Tech Stack:** React Native, TypeScript, Node.js, Express, MongoDB, Jest  
+**What it does:** Event tickets sharing and discovery platform with cross-platform mobile app  
+- Built RESTful API with MongoDB and Mongoose for ticket management
+- Developed React Native mobile app with iOS/Android compatibility  
+- Implemented Test-Driven Development with Jest for robust code quality
+- Features include event discovery, ticket sharing, and user authentication
 
-Tech Stack:** React Native, TypeScript, Node.js, Express, MongoDB  
-The Challenge:** Create a cross-platform mobile app for event ticket sharing  
-My Solution:** 
-- Built RESTful API handling event data and user authentication
-- Developed React Native app with file-based routing for iOS/Android
-- Implemented TDD with Jest achieving 90%+ test coverage
-- MongoDB integration with Mongoose for efficient data management
+### [NC News - Reddit-Style News App](https://github.com/Andipascale7/nc-news) | [API Repo](https://github.com/Andipascale7/Seeding.git)
+**Tech Stack:** React, JavaScript, Node.js, Express, PostgreSQL  
+**What it does:** Full-stack social news platform with commenting and voting  
+- Single Page Application with dynamic routing and state management
+- RESTful API built with PostgreSQL database and comprehensive testing
+- Features article browsing, commenting system, and user interactions
+- Responsive design with Axios-based API integration
 
-Key Features: Event discovery, ticket sharing, user profiles, real-time updates
-
----
-
-### [NC News - Social News Platform](https://github.com/Andipascale7/nc-news)
-🔗 [API Documentation](https://github.com/Andipascale7/Seeding.git)**
-
-**Tech Stack:** React, JavaScript, Node.js, PostgreSQL  
-**The Challenge:** Build a full-stack Reddit-style news aggregation platform  
-**My Solution:**
-- React SPA with dynamic routing and optimistic rendering
-- PostgreSQL database with complex relational data structures  
-- RESTful API with comprehensive error handling and validation
-- Responsive design with accessibility considerations
-
-**Key Features:** Article browsing, commenting system, voting, user authentication
-
----
 
 ### 🔨 Currently Building
 **Python Learning Projects:** Expanding into backend Python development  
 **TypeScript Deep Dive:** Building more complex React TypeScript applications  
-**Portfolio Website:** Personal portfolio showcasing all projects with modern design
+**Portfolio Website:** Personal portfolio showcasing all projects
