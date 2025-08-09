@@ -24,7 +24,7 @@ Passionate about creating inclusive web experiences and sustainable technology s
 ## 🚀 Featured Projects
 
 ### [Giggle - Event Discovery Platform](https://github.com/Andipascale7/giggle-fe)
-**[See Live Demo on Northcoders Blog](https://www.northcoders.com/blog/giggle/)** - Featured as exemplary bootcamp project
+**[See Live Demo on Northcoders ](https://www.northcoders.com/blog/giggle/)** - Featured as exemplary bootcamp project
 
 **[Frontend - React Native App](https://github.com/Andipascale7/giggle-fe)**  
 Built with React Native, TypeScript, and Expo. Cross-platform mobile app with file-based routing for smooth iOS/Android compatibility. Features event discovery and ticket sharing interface.
