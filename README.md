@@ -22,6 +22,7 @@ Passionate about creating inclusive web experiences and sustainable technology s
 ---
 
 🚀 Featured Projects
+
 Giggle - Event Discovery Platform | Backend API
 Full-Stack Mobile App • React Native + Node.js + MongoDB
 Frontend: Cross-platform mobile app built with React Native and TypeScript. Features event discovery, ticket sharing, and smooth iOS/Android compatibility using Expo's file-based routing.
@@ -32,4 +33,6 @@ Full-Stack Web App • React + Node.js + PostgreSQL
 Frontend: React SPA with dynamic article filtering, topic sorting, and real-time commenting. React Router navigation with Axios API integration for seamless user experience.
 Backend: PostgreSQL-powered RESTful API with full CRUD operations for articles, comments, and users. Built using TDD with Jest, featuring robust error handling and proper database relationships.
 
-🎯 Currently Building: Python applications, TypeScript deep-dive projects, and a portfolio website showcasing these full-stack solutions.
+🎯 Currently Building:
+
+Python applications, TypeScript deep-dive projects, and a portfolio website showcasing these full-stack solutions.
