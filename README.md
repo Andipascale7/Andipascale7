@@ -25,18 +25,18 @@ Passionate about creating inclusive web experiences and sustainable technology s
 
 ### [Giggle - Event Discovery Platform](https://github.com/Andipascale7/giggle-fe)
 
-**Frontend - React Native App** | [📱 Repository](https://github.com/Andipascale7/giggle-fe)  
+**[Frontend - React Native App](https://github.com/Andipascale7/giggle-fe)**  
 Built with React Native, TypeScript, and Expo. Cross-platform mobile app with file-based routing for smooth iOS/Android compatibility. Features event discovery and ticket sharing interface.
 
-**Backend - RESTful API** | [🔗 Repository](https://github.com/Andipascale7/giggle-be)  
+**[Backend - RESTful API](https://github.com/Andipascale7/giggle-be)**  
 Built with Node.js, Express, and MongoDB. Handles user authentication, event data management, and ticket operations. Comprehensive Jest testing ensures reliable API endpoints.
 
 ### [NC News - Reddit-Style News Platform](https://github.com/Andipascale7/nc-news)
 
-**Frontend - React Web App** | [🌐 Repository](https://github.com/Andipascale7/nc-news)  
+**[Frontend - React Web App](https://github.com/Andipascale7/nc-news)**  
 Built with React and JavaScript. Single-page application featuring dynamic article filtering, topic sorting, and real-time commenting. React Router navigation with Axios API integration.
 
-**Backend - PostgreSQL API** | [⚙️ Repository](https://github.com/Andipascale7/Seeding)  
+**[Backend - PostgreSQL API](https://github.com/Andipascale7/Seeding)**  
 Built with Node.js, Express, and PostgreSQL. RESTful API with full CRUD operations for articles, comments, and users. Test-driven development with Jest and robust error handling.
 
 **Currently Building:** Python applications, TypeScript projects, and a portfolio website.
