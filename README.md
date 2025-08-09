@@ -4,7 +4,7 @@
 
 - 🔭 Full-stack JavaScript Bootcamp graduate
 - ⚡ Fun fact: I speak approximately 4 languages
-- 🌱 I'm currently learning Pyton
+- 🌱 I'm currently learning Python
 - 💼 STEM graduate & polyglot developer
 
 ##
