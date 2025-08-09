@@ -21,18 +21,22 @@ Passionate about creating inclusive web experiences and sustainable technology s
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-Giggle - Event Discovery Platform | Backend API
-Full-Stack Mobile App • React Native + Node.js + MongoDB
-Frontend: Cross-platform mobile app built with React Native and TypeScript. Features event discovery, ticket sharing, and smooth iOS/Android compatibility using Expo's file-based routing.
-Backend: RESTful API handling user authentication and event data. MongoDB with Mongoose for flexible data storage, comprehensive Jest testing for reliable endpoints.
+### [Giggle - Event Discovery Platform](https://github.com/Andipascale7/giggle-fe)
 
-NC News - Reddit-Style News Platform | API Repo
-Full-Stack Web App • React + Node.js + PostgreSQL
-Frontend: React SPA with dynamic article filtering, topic sorting, and real-time commenting. React Router navigation with Axios API integration for seamless user experience.
-Backend: PostgreSQL-powered RESTful API with full CRUD operations for articles, comments, and users. Built using TDD with Jest, featuring robust error handling and proper database relationships.
+**Frontend - React Native App** | [📱 Repository](https://github.com/Andipascale7/giggle-fe)  
+Built with React Native, TypeScript, and Expo. Cross-platform mobile app with file-based routing for smooth iOS/Android compatibility. Features event discovery and ticket sharing interface.
 
-🎯 Currently Building:
+**Backend - RESTful API** | [🔗 Repository](https://github.com/Andipascale7/giggle-be)  
+Built with Node.js, Express, and MongoDB. Handles user authentication, event data management, and ticket operations. Comprehensive Jest testing ensures reliable API endpoints.
 
-Python applications, TypeScript deep-dive projects, and a portfolio website showcasing these full-stack solutions.
+### [NC News - Reddit-Style News Platform](https://github.com/Andipascale7/nc-news)
+
+**Frontend - React Web App** | [🌐 Repository](https://github.com/Andipascale7/nc-news)  
+Built with React and JavaScript. Single-page application featuring dynamic article filtering, topic sorting, and real-time commenting. React Router navigation with Axios API integration.
+
+**Backend - PostgreSQL API** | [⚙️ Repository](https://github.com/Andipascale7/Seeding)  
+Built with Node.js, Express, and PostgreSQL. RESTful API with full CRUD operations for articles, comments, and users. Test-driven development with Jest and robust error handling.
+
+**Currently Building:** Python applications, TypeScript projects, and a portfolio website.
