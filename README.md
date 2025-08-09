@@ -21,3 +21,39 @@ Passionate about creating inclusive web experiences and sustainable technology s
 
 ---
 
+## 🚀 Featured Projects
+
+### [Giggle App - Event Discovery Platform-group project](https://github.com/Andipascale7/giggle-fe) 
+[Backend API](https://github.com/Andipascale7/giggle-be)**
+
+Tech Stack:** React Native, TypeScript, Node.js, Express, MongoDB  
+The Challenge:** Create a cross-platform mobile app for event ticket sharing  
+My Solution:** 
+- Built RESTful API handling event data and user authentication
+- Developed React Native app with file-based routing for iOS/Android
+- Implemented TDD with Jest achieving 90%+ test coverage
+- MongoDB integration with Mongoose for efficient data management
+
+Key Features: Event discovery, ticket sharing, user profiles, real-time updates
+
+---
+
+### [NC News - Social News Platform](https://github.com/Andipascale7/nc-news)
+🔗 [API Documentation](https://github.com/Andipascale7/Seeding.git)**
+
+**Tech Stack:** React, JavaScript, Node.js, PostgreSQL  
+**The Challenge:** Build a full-stack Reddit-style news aggregation platform  
+**My Solution:**
+- React SPA with dynamic routing and optimistic rendering
+- PostgreSQL database with complex relational data structures  
+- RESTful API with comprehensive error handling and validation
+- Responsive design with accessibility considerations
+
+**Key Features:** Article browsing, commenting system, voting, user authentication
+
+---
+
+### 🔨 Currently Building
+**Python Learning Projects:** Expanding into backend Python development  
+**TypeScript Deep Dive:** Building more complex React TypeScript applications  
+**Portfolio Website:** Personal portfolio showcasing all projects with modern design
