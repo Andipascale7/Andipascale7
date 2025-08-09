@@ -12,7 +12,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andipascale7&theme=radical)
 
-## 💻 Most Used Languages
+## 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andipascale7&layout=compact&theme=radical)
 
 ---
