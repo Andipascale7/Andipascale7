@@ -1,6 +1,6 @@
 ![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
 
-# 👋 Hi, I'm Andi 
+# 🌳 Hi, I'm Andi 
 
 **Junior Software Developer** | Full-Stack JavaScript Bootcamp Graduate (Northcoders)  
 
