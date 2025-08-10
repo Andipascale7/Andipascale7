@@ -1,43 +1,31 @@
 ![snake gif](https://github.com/Andipascale7/Andipascale7/blob/output/github-snake-dark.svg)
 
+# 👋 Hi, I'm Andi 
 
-🌟 JavaScript Developer | React Specialist | Outdoor Adventure Lover
+**Junior Software Developer** | Full-Stack JavaScript Bootcamp Graduate (Northcoders)  
 
-Recent Northcoders bootcamp graduate with 2+ years managing digital systems across multiple brands. Passionate about building user-centric web applications and sustainable technology solutions. Avid hiker and flow yoga practitioner who believes in living happier, healthier lives through outdoor adventures.
-
-🔥 Currently: Building full-stack applications with React, TypeScript, and Node.js
-
-
-💼 Background: Digital Menu Manager across multiple brands + technical support expertise
+Frontend-focused developer with experience in React, TypeScript, and database integration.  
+Strong technical support background, proven debugging skills, and a user-centric approach to problem-solving.  
+Passionate about building maintainable, accessible applications and collaborating in agile teams.
 
 
-📚 Learning: Expanding into Vue.js, PHP, and MySQL to complement my JavaScript foundation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andipascale)
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3, responsive design, accessibility  
+- **Backend & Databases:** Node.js, Express, REST APIs, PostgreSQL, MongoDB, Mongoose  
+- **Testing:** Jest, TDD, component testing  
+- **Tools & Practices:** Git/GitHub, Agile/SCRUM, pair programming
+
 
 
 🎯 Seeking: Junior Developer opportunities with outdoor/lifestyle brands
 
-⚡ Core Skills:
-
-    JavaScript, TypeScript, React, Node.js
-    HTML/CSS, Git, PostgreSQL, MongoDB
-    Test-driven development with Jest
-    Cross-platform mobile development
-
-🌱 Ready to Learn:
-
-    Vue.js, PHP, MySQL, SASS
-    Eager to adapt to new technologies
-    Always expanding technical skillset
-
-🌍 Values:
-
-    Sustainable technology solutions
-    Collaborative development approach
-    Continuous learning mindset
-    Passionate about creating inclusive web experience
 
 
-🎯 Seeking: Junior Frontend Developer opportunities 
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Andipascale7&theme=radical)    
 
