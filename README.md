@@ -19,10 +19,11 @@ Passionate about building maintainable, accessible applications and collaboratin
 - **Testing:** Jest, TDD, component testing  
 - **Tools & Practices:** Git/GitHub, Agile/SCRUM, pair programming
 
-
+---
 
 🎯 Seeking: Junior Developer opportunities with outdoor/lifestyle brands
 
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andipascale7&layout=compact&theme=radical)
 
@@ -48,17 +49,22 @@ Built with React and JavaScript. Single-page application featuring dynamic artic
 **[Backend - PostgreSQL API](https://github.com/Andipascale7/Seeding)**  
 Built with Node.js, Express, and PostgreSQL. RESTful API with full CRUD operations for articles, comments, and users. Test-driven development with Jest and robust error handling.
 
+---
+
+## 🚧 Currently Building/ Learning 
 
 
-🚧**Currently Building:** 
 
 Python applications, TypeScript projects, and a portfolio website.
 
-##
+
+___
 
 
-## 
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andipascale7&show_icons=true&theme=radical)
 
 ---
 
+____
