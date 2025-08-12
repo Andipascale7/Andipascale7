@@ -24,11 +24,6 @@ Passionate about building maintainable, accessible applications and collaboratin
 🎯 Seeking: Junior Developer opportunities with outdoor/lifestyle brands
 
 
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andipascale7&theme=radical)    
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andipascale7&layout=compact&theme=radical)
 
 
