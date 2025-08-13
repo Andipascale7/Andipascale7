@@ -30,7 +30,7 @@ Passionate about building maintainable, accessible applications and collaboratin
 
 ## 🚀 Featured Projects
 
-### :musical_note:  [Giggle - Event Discovery Platform](https://github.com/Andipascale7/giggle-fe)
+### :musical_note:  [Giggle - Event Discovery Platform-Group Project](https://github.com/Andipascale7/giggle-fe)
 **[See Live Demo on Northcoders ](https://www.northcoders.com/blog/giggle/)** - Featured as exemplary bootcamp project
 
 **[Frontend - React Native App](https://github.com/Andipascale7/giggle-fe)**  
@@ -41,7 +41,7 @@ Built with Node.js, Express, and MongoDB. Handles user authentication, event dat
 
 
 
-### :newspaper:[NC News - Reddit-Style News Platform](https://github.com/Andipascale7/nc-news)
+### :newspaper:[NC News - Reddit-Style News Platform- solo project](https://github.com/Andipascale7/nc-news)
 
 **[Frontend - React Web App](https://github.com/Andipascale7/nc-news)**  
 Built with React and JavaScript. Single-page application featuring dynamic article filtering, topic sorting, and real-time commenting. React Router navigation with Axios API integration.
