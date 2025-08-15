@@ -8,10 +8,14 @@ Frontend-focused developer with experience in React, TypeScript, and database in
 Strong technical support background, proven debugging skills, and a user-centric approach to problem-solving.  
 Passionate about building maintainable, accessible applications and collaborating in agile teams.
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andipascale)
 
 ---
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Andipascale7&theme=radical)
+
+
 
 ## 🛠 Tech Stack
 - **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3, responsive design, accessibility  
