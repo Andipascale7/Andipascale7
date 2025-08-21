@@ -38,7 +38,7 @@ Passionate about building maintainable, accessible applications and collaboratin
 **[See Live Demo on Northcoders ](https://www.northcoders.com/blog/giggle/)** 
 
 **[Frontend - React Native App](https://github.com/Andipascale7/giggle-fe)**  
-Built with React Native, TypeScript, and Expo. Cross-platform mobile app with file-based routing for smooth iOS/Android compatibility. Features event discovery and ticket sharing interface.
+Built with React Native, TypeScript, and Expo. Cross-platform mobile app with file-based routing. Features event discovery and ticket sharing interface.
 
 **[Backend - RESTful API](https://github.com/Andipascale7/giggle-be)**  
 Built with Node.js, Express, and MongoDB. Handles user authentication, event data management, and ticket operations. Comprehensive Jest testing ensures reliable API endpoints.
