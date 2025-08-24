@@ -2,6 +2,7 @@
 
 # 🌳 Hi, I'm Andi! 🌳
 
+
 **Junior Software Developer** | Full-Stack [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  Bootcamp Graduate (Northcoders)  
 
 Frontend-focused developer with experience in React, TypeScript, and database integration.  
