@@ -5,7 +5,7 @@
 
 **Junior Software Developer** | Full-Stack [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  Bootcamp Graduate (Northcoders)  
 
-Frontend-focused developer with experience in React, TypeScript, and database integration.  
+Frontend-focused developer with experience in [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) , ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), and database integration.  
 Strong technical support background, proven debugging skills, and a user-centric approach to problem-solving.  
 Passionate about building maintainable, accessible applications and collaborating in agile teams.
 
