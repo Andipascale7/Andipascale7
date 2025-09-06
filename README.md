@@ -9,7 +9,6 @@ Frontend-focused developer with experience in [![React Badge](https://img.shield
 Strong technical support background, proven debugging skills, and a user-centric approach to problem-solving.  
 Passionate about building maintainable, accessible applications and collaborating in agile teams.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andipascale)
 
 ---
 
