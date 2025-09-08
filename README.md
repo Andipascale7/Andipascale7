@@ -59,7 +59,7 @@ Built with Node.js, Express, and PostgreSQL. RESTful API with full CRUD operatio
 
 
 
-Python applications, TypeScript projects, and a portfolio website.
+Python , TypeScript projects, and a portfolio website.
 
 
 ___
