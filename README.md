@@ -25,7 +25,7 @@ Passionate about building maintainable, accessible applications and collaboratin
 
 ---
 
-🎯 Seeking: Junior Developer opportunities with outdoor/lifestyle brands
+🎯 Seeking: Junior Developer opportunities 
 
 ---
 
@@ -63,6 +63,12 @@ Python , TypeScript projects, and a portfolio website.
 
 
 ___
+
+## 🎢 Learning Wish List
+PHP, Vue.js, Go
+
+___
+
 
 
 
