@@ -65,7 +65,7 @@ Python , TypeScript projects, and a portfolio website.
 ___
 
 ## 🎢 Learning Wish List
-PHP, Vue.js, Go, AI Agents
+PHP, Vue.js, Go, AI Agents, Java
 
 ___
 
