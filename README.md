@@ -20,7 +20,7 @@ Passionate about building maintainable, accessible applications and collaboratin
 - **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3, responsive design, accessibility  
 - **Backend & Databases:** Node.js, Express, REST APIs, PostgreSQL, MongoDB, Mongoose  
 - **Testing:** Jest, TDD, component testing  
-- **Tools & Practices:** Git/GitHub, Agile/SCRUM, Python, pair programming
+- **Tools & Practices:** Git/GitHub, Agile/SCRUM, Python,Java,  pair programming
 
 ---
 
@@ -64,7 +64,7 @@ Python , TypeScript projects, and a portfolio website.
 ___
 
 ## 🎢 Learning Wish List
-PHP, Vue.js, Go, AI Agents, Java
+PHP, Vue.js, Go, AI Agents
 
 ___
 
